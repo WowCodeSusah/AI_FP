@@ -28,7 +28,7 @@ def test():
     return False
 
 # Delete all input and output folders
-helper.delete_all()
+# helper.delete_all()
 
 # Runs the main function
-# main('test1')
+main('test1')
